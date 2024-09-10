@@ -54,12 +54,12 @@ nav ul a:hover {
 }
 .btn {
   padding: 0.5em 1em;
-  color: white;
+  color: #ea580c;
   font-weight: 500;
   letter-spacing: 1px;
   border-radius: 0.5em;
   font-size: 1.1em;
-  border: 2px solid white;
+  border: 2px solid #ea580c;
   cursor: pointer;
   transition: 0.3s ease-in-out;
 }
@@ -95,6 +95,7 @@ section {
   margin-top: 3em;
   box-shadow: 0 0 25px var(--main-color);
   transition: 0.4s ease-in-out;
+  margin-top: 100px;
 }
 #home img:hover {
   box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color),
@@ -202,7 +203,7 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 5em;
+  font-size: 4em;
   margin-bottom: 60px;
 }
 form {
