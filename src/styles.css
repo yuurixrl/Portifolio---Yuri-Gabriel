@@ -109,8 +109,8 @@ section {
   max-width: 600px;
 }
 .info-box h1 {
-  font-size: 5em;
-  font-weight: 700;
+  font-size: 4em;
+  font-weight: 600;
 }
 .info-box h3 {
   margin-top: -12px;
@@ -159,7 +159,7 @@ section {
   gap: 2em;
 }
 .about-box h1 {
-  font-size: 5em;
+  font-size: 3em;
 }
 .about-box p {
   color: white;
@@ -203,7 +203,7 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 4em;
+  font-size: 3em;
   margin-bottom: 60px;
 }
 form {
