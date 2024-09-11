@@ -370,17 +370,18 @@ footer {
   }
 
   #about .skills {
-    gap: 3em;
+    gap: 2em;
+    font-size: 0.8em;
   }
   #contact .header {
     font-size: 3em;
   }
 
   #contact .input-box span {
-    font-size: 1.2em;
+    font-size: 1em;
   }
   .input-box input {
-    padding: 0.5em 1em;
+    padding: 0.3em 0.6em;
   }
 
   footer {
